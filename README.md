@@ -1,10 +1,15 @@
+<div align="center">
+
+<a href="https://www.amazon.co.jp/dp/4297145308"><img src="assets/cover.jpg" width="200" alt="書影"></a>
+
 # LangChain と LangGraph による RAG・AI エージェント［実践］入門
 
-「LangChain と LangGraph による RAG・AI エージェント［実践］入門」の GitHub リポジトリです。
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](./LICENSE)
+[![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)](https://github.com/langchain-ai/langchain)
+[![LangGraph](https://img.shields.io/badge/LangGraph-FF6F00?style=for-the-badge&logoColor=white)](https://github.com/langchain-ai/langgraph)
+[![Python](https://img.shields.io/badge/Python-3.10-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 
-https://www.amazon.co.jp/dp/4297145308
-
-<img src="assets/cover.jpg" width="50%" />
+</div>
 
 ## 各章のソースコード
 
